@@ -14,5 +14,3 @@
   "license": "ISC",
   "keywords": []
 }
-const config = require("./index.js");
-start node index.js
