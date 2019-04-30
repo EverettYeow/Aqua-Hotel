@@ -1,3 +1,5 @@
+java.runtime.version=11
+
 // Load up the discord.js library
 const Discord = require("discord.js");
 
